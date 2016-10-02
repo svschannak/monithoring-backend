@@ -1,4 +1,7 @@
 .idea/*
 screenshots/*
 service_file/*
+node_modules/*
 *.pyc
+conf.py
+ghostdriver.log
